@@ -97,3 +97,9 @@ h3 {
   max-width: 470px;
   text-align: center;
 }
+
+@media (max-width: 420px) {
+  .p-120 {
+    padding: 0;
+  }
+}
